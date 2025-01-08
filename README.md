@@ -47,7 +47,7 @@ The scoring system ensures that players are rewarded for both precision and stra
 3. Load and run the game on an 8086 emulator or compatible hardware.
 
 ## License
-This game and all of his files were created by **Tal Barmocha** and **Shay Rask**
+This game and all of his files were created by **Shay Rask** and **Tal Barmocha**
 This project is licensed under the MIT License.
 
 ---
